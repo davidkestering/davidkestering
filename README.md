@@ -6,6 +6,12 @@
 
 - 🌱 I’m currently learning **Java, Node, React**
 
+ <div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidkestering&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkestering&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="color: white" style="filter: invert(80%) sepia(0%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);">
 <a href="https://linkedin.com/in/davidkestering" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="davidkestering" height="30" width="40" /></a>
